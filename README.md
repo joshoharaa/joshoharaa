@@ -44,5 +44,4 @@ SIEM
 
     
 ## Projects
-Detection Lab
-SOC Automation Project
+Microsoft SOC Analyst Simulation Lab
