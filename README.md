@@ -44,4 +44,4 @@ SIEM
 
     
 ## Projects
-Microsoft SOC Analyst Simulation Lab
+- [Microsoft SOC Analyst Simulation Lab](https://github.com/joshoharaa/Microsoft-SOC-Analyst-Simulation-Lab)
