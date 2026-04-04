@@ -45,4 +45,5 @@ SIEM
     
 ## Projects
 - [Investigations Repository](https://github.com/joshoharaa/Investigations/blob/main/README.md)
-- [Microsoft SOC Analyst Simulation Lab](https://github.com/joshoharaa/Microsoft-SOC-Analyst-Simulation-Lab)
+- [Microsoft SOC Lab](https://github.com/joshoharaa/Microsoft-SOC-Lab/edit/main/README.md)
+- [SOAR-EDR Automation](https://github.com/joshoharaa/soar-edr-automated-response-lab)
