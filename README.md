@@ -3,39 +3,41 @@
 <a href="https://www.linkedin.com/in/josh-o-hara-492a80225"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an IT Engineer with a profound interest in technology and a dedication to solving complex problems. 
+Cybersecurity-focused IT professional with hands-on experience building and investigating real-world attack scenarios using Microsoft Sentinel and Defender XDR.
+
+I specialise in detecting, analysing, and responding to security events across identity, email, and endpoint layers using Microsoft Sentinel and Defender XDR.
+
 
 ## Objective
 
-My journey within Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Centre 
+Actively pursuing a SOC Analyst (Tier 1) rolerole where I can apply practical detection and investigation skills to real-world security incidents. 
+
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-Skill	Associated Project
+- SIEM monitoring & incident investigation (Microsoft Sentinel)
+- Endpoint detection & response (Microsoft Defender for Endpoint)
+- Email threat analysis (Defender for Office 365)
+- Identity & access security (Microsoft Entra ID, Conditional Access)
+- Threat detection using KQL
+- Process tree and telemetry analysis
+- MITRE ATT&CK mapping
+
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-Network
+### Network
 
-<a href="YOUR_PROJECT_OR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
-</a>
+- Wireshark
 
-Endpoint
+### Endpoint 
 
-<a href="YOUR_PROJECT_OR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-</a>
- 
-SIEM
+- Microsoft Defender for Endpoint
 
-<a href="YOUR_PROJECT_OR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-</a>
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
-</a>
+### SIEM
+
+- Microsoft Sentinel
   
 ## Certifications
 
